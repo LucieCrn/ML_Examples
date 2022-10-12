@@ -1,5 +1,5 @@
 ------------------------------------------------
-# Exercice on linear regression - Boston Housing 
+# Linear regression - Boston Housing 
 ------------------------------------------------
   
 
