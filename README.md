@@ -1,6 +1,6 @@
-## ML_Examples
+# ML_Examples
 
-# R : 
+## R : 
 - Linear regression : Boston housing example. 
 - Logistic regesstion with GAMs. 
 - Time Series : Toulouse Airport example. 
