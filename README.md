@@ -6,3 +6,4 @@
   - Linear regression : Boston housing example. 
   - Logistic regesstion with GAMs. 
 - Time Series : Toulouse Airport example. 
+- Text Analysis : Tweets analysis about the Olympic Games. 
